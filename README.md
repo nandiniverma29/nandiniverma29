@@ -64,7 +64,7 @@ Core CS        : Data Structures
   <a href="https://www.linkedin.com/in/nandini-verma-814b66347/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="mailto:nandiniiverma29@gmail.com" target="_blank">
+  <a href="mailto:nandiniiverma29@gmail" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://your-portfolio-link.com" target="_blank">
